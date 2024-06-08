@@ -11,19 +11,19 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Chemistry(Theoretical & Computational Chemistry), New York University, 2023-2028 (expected)
-* M.S. in Medical Informatics, Peking Union Medical College & Chinese Academy of Medical Sciences, 2020-2023
-* B.S. in Medical Experimental Technology, Peking University, 2016-2020
+* Ph.D in **Chemistry(Theoretical & Computational Chemistry)**, New York University, 2023-2028 (expected)
+* M.S. in **Medical Informatics**, Peking Union Medical College & Chinese Academy of Medical Sciences, 2020-2023
+* B.S. in **Medical Experimental Technology**, Peking University, 2016-2020
 
 Work experience
 ======
 * 2022 Sep-2023 Jan: Research Scientist Intern
-  * SILEXON
-  * Compound-protein interactin prediction and Molecular propertry prediction.
+  * **SILEXON**
+  * Compound-protein Interactin Prediction, Molecular Propertry Prediction.
   * Supervisor: Jianyang Zeng
 
 * 2020 Nov-2021 Sep: Data Scientist (3 months) and Research Scientist (6 months) Intern
-  * Xtalpi AI Research Center
+  * **Xtalpi AI Research Center**
   * ADMET prediction, Molecular GNN
   * Supervisor: Bowen Zhang
 
@@ -58,7 +58,3 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
