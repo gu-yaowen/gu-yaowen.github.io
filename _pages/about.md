@@ -13,8 +13,13 @@ My research focuses on developing advanced machine learning techniques for chemo
 
 News:
 2024.5: 🙋‍♂️Honored to serve as a reviewer in NeurIPS 2024!
+
 2023.9: 🙋‍♂️Happy to serve as a PC member in IEEE BIBM 2023!
-2023.8: 🦅Relocate to US!</p>
+
+2023.8: 🦅Relocate to US!
+
 2023.6: 🎓Graduate from PUMC, honor to win the President's award (Top1% among graduations)!
+
 2023.3: ✈️Attend a conference (CSMI2022) presenting the patient similarity network for sepsis, flying to Hainan!️
+
 ======

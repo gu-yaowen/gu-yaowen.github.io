@@ -22,7 +22,7 @@ Work experience
   * Compound-protein Interactin Prediction, Molecular Propertry Prediction.
   * Supervisor: Jianyang Zeng
 
-* 2020 Nov-2021 Sep: Data Scientist (3 months) and Research Scientist (6 months) Intern
+* 2020 Nov-2021 Sep: Research Scientist Intern
   * **Xtalpi AI Research Center**
   * ADMET prediction, Molecular GNN
   * Supervisor: Bowen Zhang
@@ -32,14 +32,17 @@ Academic Service
 * PC member: IEEE BIBM (23, 24)
 * Conference reviewer: NeurIPS (24), AMIA (23, 24), BIBM (23, 24)
 * Journal reviewr: 
-  * ML Journals: Neual Networks, Neurocomputing, Knowledge-based systems, Expert systems with applications.
-  * Bioinfo Journals: Briefings in Bioinformatics, Artificial Intelligence in Medicine, Computers in Biology and Medicine
-  * Biomed Journals: iMeta, SmartMat, Journal of Medical Internet Research, Infectious Disease Modeling, Haliyon, JMIR Formative Research, Frontiers in Endocrinology.
+
+  * ML Journals: Information Fusion, Advanced Engineering Informatics, Expert Systems with Applications, Knowledge-based systems, Patterns, Neural Networks, Neurocomputing.
+
+  * Bioinfo Journals: iMeta, SmartMat, Computers in Biology and Medicine, Briefings in Bioinformatics, Artificial Intelligence in Medicine, Journal of Medical Internet Research.
+
+  * Biomed Journals: Frontiers in Endocrinology, Heliyon, Infectious Disease Modeling, JMIR Formative Research.
 
 Skills
 ======
 * ML package: Pytorch, PyG, DGL
-* Comput Chem tool: AMBER, GROMACS, ChimeraX, PyMol, RDkit, Graphein
+* Comput Chem tool: AMBER, GROMACS, Gaussian, ChimeraX, PyMol, RDkit, Graphein
 
 Publications
 ======
