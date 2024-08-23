@@ -21,7 +21,7 @@ repository               : "gu-yaowen/gu-yaowen.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "fig.png"
+  avatar           : "fig.jpg"
   name             : "Yaowen Gu"
   pronouns         : # example: "she/her"  
   bio              : "Comput Chem Ph.D. student focusing on AI for science and drug discovery"
